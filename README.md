@@ -1,6 +1,6 @@
 # 🐄 TerekaID: Cardano-Powered Livestock Identity and Meat Traceability
 
-TerekaID is a Cardano dApp that brings farm-to-slaughter transparency to Uganda’s meat supply chain — by assigning each animal a unique NFT, logging lifecycle events, and enabling anyone to verify origin via QR code.
+TerekaID is a Cardano DApp that brings farm-to-slaughter transparency to Uganda’s meat supply chain — by assigning each animal a unique NFT, logging lifecycle events, and enabling anyone to verify origin via QR code.
 
 > “From hoof to plate — every step logged, every buyer protected.”
 
